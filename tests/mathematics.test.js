@@ -10,6 +10,7 @@ describe('sum', () => {
         expect(sum(1,1)).toEqual(2);
     });
 
+    //vérifie un potentiel faux résultat positif
     it('1 + 0 != 2', () => {
         expect(sum(1,0)).not.toEqual(2);
     });

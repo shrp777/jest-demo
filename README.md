@@ -2,6 +2,18 @@
 
 Exemple minimaliste d'utilisation du framework Jest pour l'écriture de tests unitaires en JavaScript.
 
+## Import des dépendances
+
+`npm install`
+
+## Exécution du code
+
+`npm start`
+
+## Exécution des tests
+
+`npm test`
+
 --
 
 <img src="https://sherpa.one/images/sherpa-logotype.png" width="120px">
