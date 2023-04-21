@@ -1,4 +1,4 @@
-const sum = require('./mathematics');
+const sum = require("./mathematics");
 
 const result = sum(1, 1);
 
